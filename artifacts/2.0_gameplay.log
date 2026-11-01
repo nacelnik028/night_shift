@@ -1,0 +1,160 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: Clock-in enables gameplay
+PASS: Unscanned human sale is blocked
+PASS: Wrong product is rejected
+PASS: Correct scanned sale earns money
+PASS: Rejecting a monster is safe
+PASS: Rejecting a human incurs the defined penalty
+PASS: Accepting a monster ends the shift
+PASS: Jumpscare transitions to retry screen
+PASS: Retry restores checkpoint money
+PASS: Moving cancels cleaning
+PASS: All three spills can be cleaned
+PASS: Restocking requires a crate
+PASS: Crate is consumed to restock
+PASS: Charger restores flashlight battery
+PASS: Power failure blocks camera access
+PASS: Breaker restores live cameras
+PASS: Camera channel 0 switches
+PASS: Camera channel 1 switches
+PASS: Camera channel 2 switches
+PASS: Camera channel 3 switches
+PASS: Camera selection wraps safely
+PASS: Camera-invisible monster is excluded from CCTV only
+PASS: Player can still see camera-invisible visitor
+PASS: Pause freezes clock and customer patience
+PASS: Ringing telephone opens the call
+PASS: Hanging up on the caller is safe
+PASS: Inviting the caller triggers a loss
+PASS: Opening storage during the warned knock is dangerous
+PASS: Storage becomes safe after knocking ends
+PASS: Solid station wall blocks player movement
+PASS: Closed office door blocks player
+PASS: Opened office door permits entry
+PASS: First-person ray can target the product scanner
+PASS: World interaction is reachable: product:chips
+PASS: World interaction is reachable: product:water
+PASS: World interaction is reachable: product:coffee
+PASS: World interaction is reachable: register
+PASS: World interaction is reachable: accept
+PASS: World interaction is reachable: reject
+PASS: World interaction is reachable: cameras
+PASS: World interaction is reachable: phone
+PASS: World interaction is reachable: battery
+PASS: World interaction is reachable: supplies
+PASS: World interaction is reachable: breaker
+PASS: World interaction is reachable: clean:0
+PASS: World interaction is reachable: restock
+PASS: Rejecting every human cannot bypass the inspection game
+PASS: Customer walks from outside through the entrance to the counter
+PASS: Night 1 has the expected visitor count
+PASS: Night 1 cannot complete before duties
+PASS: Night 1 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 1 red_eyes has a discoverable clue
+PASS: Night 1 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 1 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 1 red_eyes has a discoverable clue
+PASS: Night 1 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 1 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 1 unlocks next shift
+PASS: Night 2 has the expected visitor count
+PASS: Night 2 cannot complete before duties
+PASS: Night 2 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 absent has a discoverable clue
+PASS: Night 2 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 red_eyes has a discoverable clue
+PASS: Night 2 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 absent has a discoverable clue
+PASS: Night 2 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 2 unlocks next shift
+PASS: Night 3 has the expected visitor count
+PASS: Night 3 cannot complete before duties
+PASS: Night 3 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 mimic has a discoverable clue
+PASS: Night 3 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 mimic has a discoverable clue
+PASS: Night 3 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 red_eyes has a discoverable clue
+PASS: Night 3 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 absent has a discoverable clue
+PASS: Night 3 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 3 unlocks next shift
+PASS: Night 4 has the expected visitor count
+PASS: Night 4 cannot complete before duties
+PASS: Night 4 absent has a discoverable clue
+PASS: Night 4 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 mimic has a discoverable clue
+PASS: Night 4 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 red_eyes has a discoverable clue
+PASS: Night 4 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 absent has a discoverable clue
+PASS: Night 4 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 mimic has a discoverable clue
+PASS: Night 4 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 4 unlocks next shift
+PASS: Night 5 has the expected visitor count
+PASS: Night 5 cannot complete before duties
+PASS: Night 5 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 red_eyes has a discoverable clue
+PASS: Night 5 red_eyes exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 human exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 absent has a discoverable clue
+PASS: Night 5 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 mimic has a discoverable clue
+PASS: Night 5 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 absent has a discoverable clue
+PASS: Night 5 absent exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 mimic has a discoverable clue
+PASS: Night 5 mimic exits after decision
+PASS: Visitor completes departure path
+PASS: Night 5 final has a discoverable clue
+PASS: Night 5 final exits after decision
+PASS: Visitor completes departure path
+PASS: Fifth night starts the final horror sequence
+PASS: Final dawn reaches the victory ending
+PASS: All five nights are recorded as complete
+PASS: Progress round-trips through a real user-directory save
+PASS: Settings survive save and reload
+GAMEPLAY TESTS PASSED: 157

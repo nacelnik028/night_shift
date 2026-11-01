@@ -1,0 +1,93 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: Hidden physical body is an intentional proxy: RestroomPartition
+PASS: Hidden physical body is an intentional proxy: Solid_-273_140_-700
+PASS: Hidden physical body is an intentional proxy: Solid_-73_140_-700
+PASS: Hidden physical body is an intentional proxy: Solid_-198_273_-700
+PASS: Hidden physical body is an intentional proxy: Solid_-130_86_-951
+PASS: Hidden physical body is an intentional proxy: Washbasin
+PASS: Hidden physical body is an intentional proxy: ServiceExitRamp
+PASS: Interaction area is isolated from physical movement: note_handover
+PASS: Hidden physical body is an intentional proxy: Solid_-800_180_-150
+PASS: Hidden physical body is an intentional proxy: Solid_800_180_-150
+PASS: Hidden physical body is an intentional proxy: Solid_-180_180_-1000
+PASS: Hidden physical body is an intentional proxy: Solid_690_180_-1000
+PASS: Hidden physical body is an intentional proxy: Solid_510_315_-1000
+PASS: Hidden physical body is an intentional proxy: Solid_0_365_-150
+PASS: Hidden physical body is an intentional proxy: Solid_-465_315_700
+PASS: Hidden physical body is an intentional proxy: Solid_465_315_700
+PASS: Hidden physical body is an intentional proxy: EntranceDoor
+PASS: Hidden physical body is an intentional proxy: Solid_-730_180_-500
+PASS: Hidden physical body is an intentional proxy: Solid_-250_180_-500
+PASS: Hidden physical body is an intentional proxy: Solid_250_180_-500
+PASS: Hidden physical body is an intentional proxy: Solid_730_180_-500
+PASS: Hidden physical body is an intentional proxy: Solid_-550_315_-500
+PASS: Hidden physical body is an intentional proxy: Solid_550_315_-500
+PASS: Hidden physical body is an intentional proxy: Solid_0_180_-750
+PASS: Hidden physical body is an intentional proxy: Solid_520_109_210
+PASS: Hidden physical body is an intentional proxy: Solid_630_125_205
+PASS: Hidden physical body is an intentional proxy: Solid_460_118_200
+PASS: Hidden physical body is an intentional proxy: Solid_595_119_172
+PASS: Hidden physical body is an intentional proxy: SnackShelf_-56
+PASS: Hidden physical body is an intentional proxy: SnackShelf_-26
+PASS: Hidden physical body is an intentional proxy: Solid_-300_115_-435
+PASS: Hidden physical body is an intentional proxy: Solid_-150_115_-435
+PASS: Hidden physical body is an intentional proxy: Solid_0_115_-435
+PASS: Hidden physical body is an intentional proxy: Solid_150_115_-435
+PASS: Hidden physical body is an intentional proxy: Solid_-700_155_480
+PASS: Hidden physical body is an intentional proxy: Solid_-660_35_-860
+PASS: Hidden physical body is an intentional proxy: Solid_-340_35_-860
+PASS: Hidden physical body is an intentional proxy: Solid_-500_135_-865
+PASS: Hidden physical body is an intentional proxy: Solid_-650_88_-825
+PASS: Hidden physical body is an intentional proxy: Solid_-500_47_-730
+PASS: Hidden physical body is an intentional proxy: Solid_-500_88_-698
+PASS: Interaction area is isolated from physical movement: note_rules
+PASS: Hidden physical body is an intentional proxy: Solid_200_35_-880
+PASS: Hidden physical body is an intentional proxy: Solid_200_105_-880
+PASS: Hidden physical body is an intentional proxy: Solid_200_35_-750
+PASS: Hidden physical body is an intentional proxy: Solid_200_105_-750
+PASS: Hidden physical body is an intentional proxy: Solid_320_35_-880
+PASS: Hidden physical body is an intentional proxy: Solid_320_105_-880
+PASS: Hidden physical body is an intentional proxy: Solid_320_35_-750
+PASS: Hidden physical body is an intentional proxy: Solid_320_105_-750
+PASS: Hidden physical body is an intentional proxy: Solid_680_35_-880
+PASS: Hidden physical body is an intentional proxy: Solid_680_105_-880
+PASS: Hidden physical body is an intentional proxy: Solid_680_35_-750
+PASS: Hidden physical body is an intentional proxy: Solid_680_105_-750
+PASS: Hidden physical body is an intentional proxy: Solid_773_160_-640
+PASS: Interaction area is isolated from physical movement: restock
+PASS: Interaction area is isolated from physical movement: clean_0
+PASS: Interaction area is isolated from physical movement: clean_1
+PASS: Interaction area is isolated from physical movement: clean_2
+PASS: Interaction area is isolated from physical movement: note_missing
+PASS: Hidden physical body is an intentional proxy: Solid_0_115_-15
+PASS: Hidden physical body is an intentional proxy: MapBoundary
+PASS: Hidden physical body is an intentional proxy: MapBoundary2
+PASS: Hidden physical body is an intentional proxy: MapBoundary3
+PASS: Hidden physical body is an intentional proxy: MapBoundary4
+PASS: Player detects interaction areas without colliding with them
+PASS: Walk across front spill (travelled 2.54m)
+PASS: Walk across aisle spill (travelled 1.42m)
+PASS: Walk across counter-side spill (travelled 1.72m)
+PASS: Walk across restock marker (travelled 2.13m)
+PASS: Walk between stocked shelves (travelled 5.45m)
+PASS: Walk through left aisle (travelled 5.75m)
+PASS: Walk toward refrigerators (travelled 2.95m)
+PASS: Walk behind counter and scan zone (travelled 3.53m)
+PASS: Walk along visitor side of counter (travelled 4.64m)
+PASS: Walk between gas pump islands (travelled 10.94m)
+PASS: Walk beside gas pump (travelled 5.92m)
+PASS: Walk across parking lot (travelled 4.93m)
+PASS: Closed entrance door blocks passage
+PASS: Open entrance door permits passage (travelled 2.06m)
+PASS: Return through entrance without snagging (travelled 2.07m)
+PASS: Closed office door blocks passage
+PASS: Open office door permits passage (travelled 2.01m)
+PASS: Return through office without snagging (travelled 2.01m)
+PASS: Closed storage door blocks passage
+PASS: Open storage door permits passage (travelled 2.01m)
+PASS: Return through storage without snagging (travelled 2.01m)
+PASS: Ray finds non-blocking spill area
+PASS: Completed spill disables its interaction layer
+PASS: Ray cannot interact with supplies through a closed door
+POLISH TESTS PASSED: 90 / 90

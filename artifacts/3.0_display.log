@@ -1,0 +1,312 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+OpenGL API 3.3.0 NVIDIA 617.42 - Compatibility - Using Device: NVIDIA - NVIDIA GeForce RTX 5060
+
+PASS: Rendered capture collision_debug
+PASS: Opt-in collision visualization runs
+DISPLAY monitor size: (3840, 2160)
+PASS: Native window accepts 1280x720
+PASS: 1280x720 HUD and visitor card are rendered
+PASS: 1280x720 ShiftRecord stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 ObjectivesAndVisitor stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 @PanelContainer@716 stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 @PanelContainer@712 stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 @Label@711 stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 @Label@715 stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 visitor and objectives do not overlap
+PASS: 1280x720 visitor column stays clear of subtitles
+PASS: 1280x720 visitor card leaves the central face visible
+PASS: Rendered capture 1280x720_visitor
+PASS: 1280x720 expanded assignments stay clear of visitor
+PASS: 1280x720 expanded assignment column stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 1280x720_expanded_tasks
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1280x720 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 1280x720_menu
+PASS: 1280x720 settings control fits: @Label@900
+PASS: 1280x720 settings control fits: @Label@901
+PASS: 1280x720 settings control fits: Description
+PASS: 1280x720 settings control fits: @Label@905
+PASS: 1280x720 settings control fits: @HSlider@906
+PASS: 1280x720 settings control fits: @Label@907
+PASS: 1280x720 settings control fits: @HSlider@908
+PASS: 1280x720 settings control fits: @Label@909
+PASS: 1280x720 settings control fits: @HSlider@910
+PASS: 1280x720 settings control fits: @CheckButton@911
+PASS: 1280x720 settings control fits: @CheckButton@912
+PASS: 1280x720 settings control fits: @Label@913
+PASS: 1280x720 settings control fits: DisplayMode
+PASS: 1280x720 settings control fits: @Label@924
+PASS: 1280x720 settings control fits: WindowResolution
+PASS: 1280x720 settings control fits: @Label@935
+PASS: 1280x720 settings control fits: @OptionButton@946
+PASS: 1280x720 settings control fits: @Label@947
+PASS: 1280x720 settings control fits: @Button@948
+PASS: Rendered capture 1280x720_settings
+PASS: Rendered capture 1280x720_briefing
+PASS: Native window accepts 1366x768
+PASS: 1366x768 HUD and visitor card are rendered
+PASS: 1366x768 ShiftRecord stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 ObjectivesAndVisitor stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 @PanelContainer@716 stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 @PanelContainer@712 stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 @Label@711 stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 @Label@715 stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 visitor and objectives do not overlap
+PASS: 1366x768 visitor column stays clear of subtitles
+PASS: 1366x768 visitor card leaves the central face visible
+PASS: Rendered capture 1366x768_visitor
+PASS: 1366x768 expanded assignments stay clear of visitor
+PASS: 1366x768 expanded assignment column stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1366x768 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 1366x768_menu
+PASS: 1366x768 settings control fits: @Label@971
+PASS: 1366x768 settings control fits: @Label@972
+PASS: 1366x768 settings control fits: Description
+PASS: 1366x768 settings control fits: @Label@976
+PASS: 1366x768 settings control fits: @HSlider@977
+PASS: 1366x768 settings control fits: @Label@978
+PASS: 1366x768 settings control fits: @HSlider@979
+PASS: 1366x768 settings control fits: @Label@980
+PASS: 1366x768 settings control fits: @HSlider@981
+PASS: 1366x768 settings control fits: @CheckButton@982
+PASS: 1366x768 settings control fits: @CheckButton@983
+PASS: 1366x768 settings control fits: @Label@984
+PASS: 1366x768 settings control fits: DisplayMode
+PASS: 1366x768 settings control fits: @Label@995
+PASS: 1366x768 settings control fits: WindowResolution
+PASS: 1366x768 settings control fits: @Label@1006
+PASS: 1366x768 settings control fits: @OptionButton@1017
+PASS: 1366x768 settings control fits: @Label@1018
+PASS: 1366x768 settings control fits: @Button@1019
+PASS: Rendered capture 1366x768_settings
+PASS: Rendered capture 1366x768_briefing
+PASS: Native window accepts 1600x900
+PASS: 1600x900 HUD and visitor card are rendered
+PASS: 1600x900 ShiftRecord stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 ObjectivesAndVisitor stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 @PanelContainer@716 stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 @PanelContainer@712 stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 @Label@711 stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 @Label@715 stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 visitor and objectives do not overlap
+PASS: 1600x900 visitor column stays clear of subtitles
+PASS: 1600x900 visitor card leaves the central face visible
+PASS: Rendered capture 1600x900_visitor
+PASS: 1600x900 expanded assignments stay clear of visitor
+PASS: 1600x900 expanded assignment column stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1600x900 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 1600x900_menu
+PASS: 1600x900 settings control fits: @Label@1042
+PASS: 1600x900 settings control fits: @Label@1043
+PASS: 1600x900 settings control fits: Description
+PASS: 1600x900 settings control fits: @Label@1047
+PASS: 1600x900 settings control fits: @HSlider@1048
+PASS: 1600x900 settings control fits: @Label@1049
+PASS: 1600x900 settings control fits: @HSlider@1050
+PASS: 1600x900 settings control fits: @Label@1051
+PASS: 1600x900 settings control fits: @HSlider@1052
+PASS: 1600x900 settings control fits: @CheckButton@1053
+PASS: 1600x900 settings control fits: @CheckButton@1054
+PASS: 1600x900 settings control fits: @Label@1055
+PASS: 1600x900 settings control fits: DisplayMode
+PASS: 1600x900 settings control fits: @Label@1066
+PASS: 1600x900 settings control fits: WindowResolution
+PASS: 1600x900 settings control fits: @Label@1077
+PASS: 1600x900 settings control fits: @OptionButton@1088
+PASS: 1600x900 settings control fits: @Label@1089
+PASS: 1600x900 settings control fits: @Button@1090
+PASS: Rendered capture 1600x900_settings
+PASS: Rendered capture 1600x900_briefing
+PASS: Native window accepts 1920x1080
+PASS: 1920x1080 HUD and visitor card are rendered
+PASS: 1920x1080 ShiftRecord stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 ObjectivesAndVisitor stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 @PanelContainer@716 stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 @PanelContainer@712 stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 @Label@711 stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 @Label@715 stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 visitor and objectives do not overlap
+PASS: 1920x1080 visitor column stays clear of subtitles
+PASS: 1920x1080 visitor card leaves the central face visible
+PASS: Rendered capture 1920x1080_visitor
+PASS: 1920x1080 expanded assignments stay clear of visitor
+PASS: 1920x1080 expanded assignment column stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 1920x1080 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 1920x1080_menu
+PASS: 1920x1080 settings control fits: @Label@1113
+PASS: 1920x1080 settings control fits: @Label@1114
+PASS: 1920x1080 settings control fits: Description
+PASS: 1920x1080 settings control fits: @Label@1118
+PASS: 1920x1080 settings control fits: @HSlider@1119
+PASS: 1920x1080 settings control fits: @Label@1120
+PASS: 1920x1080 settings control fits: @HSlider@1121
+PASS: 1920x1080 settings control fits: @Label@1122
+PASS: 1920x1080 settings control fits: @HSlider@1123
+PASS: 1920x1080 settings control fits: @CheckButton@1124
+PASS: 1920x1080 settings control fits: @CheckButton@1125
+PASS: 1920x1080 settings control fits: @Label@1126
+PASS: 1920x1080 settings control fits: DisplayMode
+PASS: 1920x1080 settings control fits: @Label@1137
+PASS: 1920x1080 settings control fits: WindowResolution
+PASS: 1920x1080 settings control fits: @Label@1148
+PASS: 1920x1080 settings control fits: @OptionButton@1159
+PASS: 1920x1080 settings control fits: @Label@1160
+PASS: 1920x1080 settings control fits: @Button@1161
+PASS: Rendered capture 1920x1080_settings
+PASS: Rendered capture 1920x1080_briefing
+PASS: Native window accepts 2560x1440
+PASS: 2560x1440 HUD and visitor card are rendered
+PASS: 2560x1440 ShiftRecord stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 ObjectivesAndVisitor stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 @PanelContainer@716 stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 @PanelContainer@712 stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 @Label@711 stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 @Label@715 stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 visitor and objectives do not overlap
+PASS: 2560x1440 visitor column stays clear of subtitles
+PASS: 2560x1440 visitor card leaves the central face visible
+PASS: Rendered capture 2560x1440_visitor
+PASS: 2560x1440 expanded assignments stay clear of visitor
+PASS: 2560x1440 expanded assignment column stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: 2560x1440 main menu control stays within logical viewport (1280.0, 720.0)
+PASS: Rendered capture 2560x1440_menu
+PASS: 2560x1440 settings control fits: @Label@1184
+PASS: 2560x1440 settings control fits: @Label@1185
+PASS: 2560x1440 settings control fits: Description
+PASS: 2560x1440 settings control fits: @Label@1189
+PASS: 2560x1440 settings control fits: @HSlider@1190
+PASS: 2560x1440 settings control fits: @Label@1191
+PASS: 2560x1440 settings control fits: @HSlider@1192
+PASS: 2560x1440 settings control fits: @Label@1193
+PASS: 2560x1440 settings control fits: @HSlider@1194
+PASS: 2560x1440 settings control fits: @CheckButton@1195
+PASS: 2560x1440 settings control fits: @CheckButton@1196
+PASS: 2560x1440 settings control fits: @Label@1197
+PASS: 2560x1440 settings control fits: DisplayMode
+PASS: 2560x1440 settings control fits: @Label@1208
+PASS: 2560x1440 settings control fits: WindowResolution
+PASS: 2560x1440 settings control fits: @Label@1219
+PASS: 2560x1440 settings control fits: @OptionButton@1230
+PASS: 2560x1440 settings control fits: @Label@1231
+PASS: 2560x1440 settings control fits: @Button@1232
+PASS: Rendered capture 2560x1440_settings
+PASS: Rendered capture 2560x1440_briefing
+PASS: Native window accepts 1280x960
+PASS: 1280x960 HUD and visitor card are rendered
+PASS: 1280x960 ShiftRecord stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 ObjectivesAndVisitor stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 @PanelContainer@716 stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 @PanelContainer@712 stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 @Label@711 stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 @Label@715 stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 visitor and objectives do not overlap
+PASS: 1280x960 visitor column stays clear of subtitles
+PASS: 1280x960 visitor card leaves the central face visible
+PASS: Rendered capture 1280x960_visitor
+PASS: 1280x960 expanded assignments stay clear of visitor
+PASS: 1280x960 expanded assignment column stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: 1280x960 main menu control stays within logical viewport (1280.0, 960.0)
+PASS: Rendered capture 1280x960_menu
+PASS: 1280x960 settings control fits: @Label@1255
+PASS: 1280x960 settings control fits: @Label@1256
+PASS: 1280x960 settings control fits: Description
+PASS: 1280x960 settings control fits: @Label@1260
+PASS: 1280x960 settings control fits: @HSlider@1261
+PASS: 1280x960 settings control fits: @Label@1262
+PASS: 1280x960 settings control fits: @HSlider@1263
+PASS: 1280x960 settings control fits: @Label@1264
+PASS: 1280x960 settings control fits: @HSlider@1265
+PASS: 1280x960 settings control fits: @CheckButton@1266
+PASS: 1280x960 settings control fits: @CheckButton@1267
+PASS: 1280x960 settings control fits: @Label@1268
+PASS: 1280x960 settings control fits: DisplayMode
+PASS: 1280x960 settings control fits: @Label@1279
+PASS: 1280x960 settings control fits: WindowResolution
+PASS: 1280x960 settings control fits: @Label@1290
+PASS: 1280x960 settings control fits: @OptionButton@1301
+PASS: 1280x960 settings control fits: @Label@1302
+PASS: 1280x960 settings control fits: @Button@1303
+PASS: Rendered capture 1280x960_settings
+PASS: Rendered capture 1280x960_briefing
+PASS: Resolution selector applies (1280, 720)
+PASS: Resolution selector applies (1366, 768)
+PASS: Resolution selector applies (1600, 900)
+PASS: Resolution selector applies (1920, 1080)
+PASS: Resolution selector applies (2560, 1440)
+PASS: Exclusive fullscreen is active in the native renderer
+PASS: Exclusive fullscreen fills the monitor
+PASS: Exclusive mode switches directly to borderless
+PASS: Window resolution selected during fullscreen is restored
+PASS: Alt+Enter works while a settings control has keyboard focus
+PASS: Native borderless fullscreen mode is active
+PASS: Fullscreen fills the current monitor
+PASS: Fullscreen preserves captured mouse
+PASS: Unrelated settings do not reset fullscreen
+PASS: A separate engine process reloads the fullscreen preference
+PASS: Fullscreen preference survives save/load
+PASS: Rendered capture fullscreen
+PASS: Alt+Enter returns to windowed mode
+PASS: Leaving fullscreen restores window size
+PASS: Window restoration preserves captured mouse
+PASS: F11 toggles fullscreen without moving the player
+PASS: Rendered capture pause
+PASS: Rendered capture register
+PASS: Rendered capture phone
+PASS: Rendered capture gameover
+PASS: Rendered capture victory
+PASS: Rendered capture cctv
+PASS: CCTV button stays within its panel
+PASS: CCTV button stays within its panel
+PASS: CCTV button stays within its panel
+PASS: Note reader stays within its modal
+PASS: Long note cannot overlap its dismissal button
+PASS: Long handover remains accessible by scrolling
+PASS: Rendered capture handover_scrolled
+DISPLAY TESTS PASSED: 307 / 307

@@ -1,0 +1,68 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: Night 1 briefing text stays inside the modal
+PASS: Night 2 briefing text stays inside the modal
+PASS: Night 3 briefing text stays inside the modal
+PASS: Night 4 briefing text stays inside the modal
+PASS: Night 5 briefing text stays inside the modal
+PASS: Low preset reduces rain particle count
+PASS: Low preset reduces CCTV resolution
+PASS: Low preset stops window animation
+PASS: FOV preference applies to the player
+PASS: Zero master volume actually mutes
+PASS: Standard preset restores weather and CCTV
+PASS: Raising master volume unmutes
+PASS: Storm produces a rendered lighting cue
+PASS: Reduced effects immediately stops lightning and grain
+PASS: Reduced effects prevents new lightning
+PASS: Camera switch is labelled unreliable
+PASS: Camera settles to a clear live feed
+PASS: CCTV schedules throttled frames
+PASS: Static cannot be mistaken for absence
+PASS: Monitor apparition invalidates the feed
+PASS: Monitor apparition recovers to clear video
+PASS: Power failure disconnects live rendering
+PASS: Ready ambient event can trigger
+PASS: Global cooldown blocks overlapping events
+PASS: Repeated event is suppressed
+PASS: A different cooled event can trigger
+PASS: Late-night darkness and ringing raise tension
+PASS: Vanish never removes an undecided customer
+PASS: Departing Shadow can disappear
+PASS: Solid wall blocks observation of a figure
+PASS: Front glass permits observation
+PASS: Storage hazard does not trap an employee already inside
+PASS: Event history remains bounded
+PASS: Attack selects the red_eyes rig
+PASS: Reduced effects suppresses red_eyes distortion
+PASS: Attack preserves player view: red_eyes
+PASS: Attack selects the mimic rig
+PASS: Reduced effects suppresses mimic distortion
+PASS: Attack preserves player view: mimic
+PASS: Attack selects the absent rig
+PASS: Reduced effects suppresses absent distortion
+PASS: Attack preserves player view: absent
+PASS: Attack selects the final rig
+PASS: Reduced effects suppresses final distortion
+PASS: Attack preserves player view: final
+PASS: Space jumps through the real CharacterBody controller
+PASS: Jump lands on the station floor
+PASS: Releasing crouch beneath an obstruction cannot expand into it
+PASS: Player stands when clearance is restored
+PASS: Retry resets velocity, stance and flashlight
+PASS: Input setup does not duplicate bindings
+PASS: Checkpoint writes successfully
+PASS: Checkpoint replacement succeeds
+PASS: Corrupted primary recovers the last valid backup
+PASS: Recovery is explained to the player
+PASS: Saving after recovery never backs up corruption
+PASS: Version-one campaign loads and filters invalid completed nights
+PASS: Valid old and new preferences load
+PASS: Settings reject incorrect types and clamp FOV
+PASS: Interrupted first save recovers a validated temporary checkpoint
+PASS: Malformed checkpoint is rejected safely: []
+PASS: Malformed checkpoint is rejected safely: null
+PASS: Malformed checkpoint is rejected safely: {}
+PASS: Malformed checkpoint is rejected safely: {"version":1,"unlocked":[],"money":0,"completed":[],"has_save":true}
+PASS: Missing checkpoint is handled safely
+OVERHAUL TESTS PASSED: 65 / 65

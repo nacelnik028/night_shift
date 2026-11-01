@@ -1,0 +1,31 @@
+﻿{
+    "date":  "2026-10-23",
+    "engine":  "4.7.2.stable.official.ed1daf0bf",
+    "renderer":  "GL Compatibility",
+    "gpu":  "NVIDIA RTX 5060",
+    "assertions":  {
+                       "total":  678,
+                       "overhaul":  65,
+                       "gameplay":  157,
+                       "remaster":  59,
+                       "physical_traversal":  90,
+                       "native_display":  307
+                   },
+    "screenshots":  {
+                        "native_display":  34,
+                        "scenarios":  33
+                    },
+    "store_draw_calls":  {
+                             "remaster":  898,
+                             "baseline":  1699
+                         },
+    "local_fps":  {
+                      "cctv":  709.1,
+                      "low_cctv":  768.8,
+                      "store":  728.2
+                  },
+    "player_save_unchanged":  true,
+    "checkpoint":  "artifacts/checkpoints/night_shift_3.0_verified_20261023_final.zip",
+    "checkpoint_sha256":  "9E157A6FEC7CF841252C320D4B2C54007706BC4FEAB3DDF4E048B626D09A7E7A",
+    "archive_files_verified":  70
+}

@@ -1,0 +1,62 @@
+﻿Godot Engine v4.7.2.stable.official.ed1daf0bf - https://godotengine.org
+
+PASS: Service doors exist in the original station
+PASS: Environmental note opens safely: rules
+PASS: Putting down a note resumes the shift
+PASS: Environmental note opens safely: missing
+PASS: Putting down a note resumes the shift
+PASS: Environmental note opens safely: handover
+PASS: Putting down a note resumes the shift
+PASS: Closed restroom blocks the capsule
+PASS: Enter restroom / (-1.98, -0.025054, -7.920759)
+PASS: Return through restroom without jumping / (-1.98, -0.025055, -6.079241)
+PASS: Closed rear_exit blocks the capsule
+PASS: Enter rear_exit / (5.1, -0.09779, -10.91455)
+PASS: Return through rear_exit without jumping / (5.1, -0.023653, -9.096449)
+PASS: An occupied entrance cannot close through the player
+PASS: A clear entrance can close normally
+PASS: Customer approach segment 0 stays clear of solid decoration
+PASS: Customer approach segment 1 stays clear of solid decoration
+PASS: Customer approach segment 2 stays clear of solid decoration
+PASS: Customer approach segment 3 stays clear of solid decoration
+PASS: Customer approach segment 4 stays clear of solid decoration
+PASS: Customer approach segment 5 stays clear of solid decoration
+PASS: Customer approach segment 6 stays clear of solid decoration
+PASS: Customer approach segment 7 stays clear of solid decoration
+PASS: Wall clock minute hand reads 03:15
+PASS: Wall clock hour hand follows campaign time
+PASS: Distant vehicle appears after its cooldown
+PASS: Distant vehicle leaves and resets
+PASS: Five tension levels map correctly at 0
+PASS: Five tension levels map correctly at 20
+PASS: Five tension levels map correctly at 40
+PASS: Five tension levels map correctly at 60
+PASS: Five tension levels map correctly at 80
+PASS: Five tension levels map correctly at 100
+PASS: Silence event fades environmental loops
+PASS: Ambience returns after temporary silence
+PASS: Dialogue echo retains the Mimic's fair explicit clue
+PASS: A customer cannot repeat the echo indefinitely
+PASS: human retains a complete articulated rig
+PASS: human joint motion stays finite
+PASS: red_eyes retains a complete articulated rig
+PASS: red_eyes joint motion stays finite
+PASS: mimic retains a complete articulated rig
+PASS: mimic joint motion stays finite
+PASS: absent retains a complete articulated rig
+PASS: absent joint motion stays finite
+PASS: final retains a complete articulated rig
+PASS: final joint motion stays finite
+PASS: Collected product has a first-person model
+PASS: First-person props cannot appear as floating objects on CCTV
+PASS: Scanning consumes the held product and lights the physical scanner
+PASS: Scanner feedback returns to idle
+PASS: Snack shelf starts with visible stock gaps
+PASS: Restocking fills the physical display and consumes the crate
+PASS: red_eyes mouth deformation retains its original mesh dimensions
+PASS: mimic mouth deformation retains its original mesh dimensions
+PASS: absent mouth deformation retains its original mesh dimensions
+PASS: final mouth deformation retains its original mesh dimensions
+PASS: Resolution and exclusive-mode preference persist
+PASS: Legacy campaign keeps its progress and defaults to borderless
+REMASTER TESTS PASSED: 59 / 59
